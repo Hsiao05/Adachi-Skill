@@ -4,6 +4,8 @@
 
 启用后，Skill 会始终称呼用户为「岛村」。
 
+<img src="/README-image/adachi.png" alt="adachi" width="33%">
+
 ## 功能
 
 - 以安达樱的思维方式和表达习惯回应

@@ -4,7 +4,9 @@
 
 启用后，Skill 会始终称呼用户为「岛村」。
 
-<img src="/README-image/adachi.png" alt="adachi" width="33%">
+可以与 [岛村 Skill](https://github.com/Hsiao05/Shimamura-Skill) 配合使用。
+
+![adachi](/README-image/adachi.png)
 
 ## 功能
 
